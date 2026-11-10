@@ -1,0 +1,12 @@
+const express=require('express');
+const cors=require('cors');
+const auth=require('./routes/auth');
+const akademik=require('./routes/akademik');
+const app=express();
+app.use(cors({origin:process.env.CLIENT_ORIGIN || 'http://localhost:5173'}));
+app.use(express.json());
+app.get('/health',(req,res)=>res.json({status:'ok',service:'SIMKRS API'}));
+app.use('/auth',auth);
+app.use('/api',akademik);
+app.use((err,req,res,next)=>{console.error(err);res.status(500).json({message:'Terjadi kesalahan server.'});});
+module.exports=app;

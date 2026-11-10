@@ -1,0 +1,1001 @@
+nim,nama,program_studi,email
+UJI000001,Joko Kusuma,Manajemen,mahasiswa1@contoh.test
+UJI000002,Putri Pratama,Sistem Informasi,mahasiswa2@contoh.test
+UJI000003,Eka Pratama,Manajemen,mahasiswa3@contoh.test
+UJI000004,Eka Anggraini,Manajemen,mahasiswa4@contoh.test
+UJI000005,Hana Setiawan,Sistem Informasi,mahasiswa5@contoh.test
+UJI000006,Citra Setiawan,Akuntansi,mahasiswa6@contoh.test
+UJI000007,Budi Anggraini,Manajemen,mahasiswa7@contoh.test
+UJI000008,Karin Wijaya,Manajemen,mahasiswa8@contoh.test
+UJI000009,Karin Pratama,Informatika,mahasiswa9@contoh.test
+UJI000010,Budi Anggraini,Sistem Informasi,mahasiswa10@contoh.test
+UJI000011,Hana Lestari,Sistem Informasi,mahasiswa11@contoh.test
+UJI000012,Eka Wijaya,Informatika,mahasiswa12@contoh.test
+UJI000013,Maya Saputra,Sistem Informasi,mahasiswa13@contoh.test
+UJI000014,Lina Kusuma,Akuntansi,mahasiswa14@contoh.test
+UJI000015,Joko Firmansyah,Akuntansi,mahasiswa15@contoh.test
+UJI000016,Hana Pratama,Akuntansi,mahasiswa16@contoh.test
+UJI000017,Indra Anggraini,Akuntansi,mahasiswa17@contoh.test
+UJI000018,Maya Anggraini,Akuntansi,mahasiswa18@contoh.test
+UJI000019,Karin Kusuma,Akuntansi,mahasiswa19@contoh.test
+UJI000020,Joko Firmansyah,Sistem Informasi,mahasiswa20@contoh.test
+UJI000021,Joko Wijaya,Sistem Informasi,mahasiswa21@contoh.test
+UJI000022,Hana Permata,Akuntansi,mahasiswa22@contoh.test
+UJI000023,Hana Ramadhan,Informatika,mahasiswa23@contoh.test
+UJI000024,Indra Ramadhan,Sistem Informasi,mahasiswa24@contoh.test
+UJI000025,Putri Permata,Akuntansi,mahasiswa25@contoh.test
+UJI000026,Putri Setiawan,Informatika,mahasiswa26@contoh.test
+UJI000027,Lina Firmansyah,Sistem Informasi,mahasiswa27@contoh.test
+UJI000028,Maya Saputra,Akuntansi,mahasiswa28@contoh.test
+UJI000029,Hana Permata,Informatika,mahasiswa29@contoh.test
+UJI000030,Putri Permata,Informatika,mahasiswa30@contoh.test
+UJI000031,Joko Permata,Manajemen,mahasiswa31@contoh.test
+UJI000032,Fajar Kusuma,Manajemen,mahasiswa32@contoh.test
+UJI000033,Eka Ramadhan,Sistem Informasi,mahasiswa33@contoh.test
+UJI000034,Dewi Ramadhan,Informatika,mahasiswa34@contoh.test
+UJI000035,Karin Lestari,Akuntansi,mahasiswa35@contoh.test
+UJI000036,Lina Pratama,Manajemen,mahasiswa36@contoh.test
+UJI000037,Karin Kusuma,Sistem Informasi,mahasiswa37@contoh.test
+UJI000038,Andi Lestari,Akuntansi,mahasiswa38@contoh.test
+UJI000039,Putri Ramadhan,Manajemen,mahasiswa39@contoh.test
+UJI000040,Indra Wijaya,Informatika,mahasiswa40@contoh.test
+UJI000041,Maya Lestari,Manajemen,mahasiswa41@contoh.test
+UJI000042,Fajar Lestari,Akuntansi,mahasiswa42@contoh.test
+UJI000043,Eka Setiawan,Akuntansi,mahasiswa43@contoh.test
+UJI000044,Eka Lestari,Akuntansi,mahasiswa44@contoh.test
+UJI000045,Hana Pratama,Manajemen,mahasiswa45@contoh.test
+UJI000046,Lina Permata,Informatika,mahasiswa46@contoh.test
+UJI000047,Andi Permata,Akuntansi,mahasiswa47@contoh.test
+UJI000048,Joko Pratama,Manajemen,mahasiswa48@contoh.test
+UJI000049,Andi Kusuma,Sistem Informasi,mahasiswa49@contoh.test
+UJI000050,Andi Permata,Informatika,mahasiswa50@contoh.test
+UJI000051,Eka Anggraini,Manajemen,mahasiswa51@contoh.test
+UJI000052,Maya Lestari,Informatika,mahasiswa52@contoh.test
+UJI000053,Budi Setiawan,Akuntansi,mahasiswa53@contoh.test
+UJI000054,Hana Ramadhan,Sistem Informasi,mahasiswa54@contoh.test
+UJI000055,Joko Firmansyah,Informatika,mahasiswa55@contoh.test
+UJI000056,Dewi Lestari,Akuntansi,mahasiswa56@contoh.test
+UJI000057,Citra Kusuma,Informatika,mahasiswa57@contoh.test
+UJI000058,Maya Permata,Akuntansi,mahasiswa58@contoh.test
+UJI000059,Joko Pratama,Informatika,mahasiswa59@contoh.test
+UJI000060,Hana Kusuma,Akuntansi,mahasiswa60@contoh.test
+UJI000061,Lina Saputra,Informatika,mahasiswa61@contoh.test
+UJI000062,Budi Kusuma,Manajemen,mahasiswa62@contoh.test
+UJI000063,Eka Saputra,Manajemen,mahasiswa63@contoh.test
+UJI000064,Gita Setiawan,Sistem Informasi,mahasiswa64@contoh.test
+UJI000065,Joko Kusuma,Sistem Informasi,mahasiswa65@contoh.test
+UJI000066,Fajar Setiawan,Manajemen,mahasiswa66@contoh.test
+UJI000067,Joko Ramadhan,Informatika,mahasiswa67@contoh.test
+UJI000068,Budi Lestari,Sistem Informasi,mahasiswa68@contoh.test
+UJI000069,Gita Saputra,Informatika,mahasiswa69@contoh.test
+UJI000070,Eka Anggraini,Sistem Informasi,mahasiswa70@contoh.test
+UJI000071,Budi Permata,Informatika,mahasiswa71@contoh.test
+UJI000072,Putri Setiawan,Manajemen,mahasiswa72@contoh.test
+UJI000073,Budi Setiawan,Akuntansi,mahasiswa73@contoh.test
+UJI000074,Karin Permata,Manajemen,mahasiswa74@contoh.test
+UJI000075,Joko Ramadhan,Akuntansi,mahasiswa75@contoh.test
+UJI000076,Karin Anggraini,Sistem Informasi,mahasiswa76@contoh.test
+UJI000077,Maya Setiawan,Manajemen,mahasiswa77@contoh.test
+UJI000078,Andi Anggraini,Manajemen,mahasiswa78@contoh.test
+UJI000079,Putri Setiawan,Informatika,mahasiswa79@contoh.test
+UJI000080,Indra Kusuma,Manajemen,mahasiswa80@contoh.test
+UJI000081,Citra Wijaya,Manajemen,mahasiswa81@contoh.test
+UJI000082,Lina Lestari,Informatika,mahasiswa82@contoh.test
+UJI000083,Karin Setiawan,Sistem Informasi,mahasiswa83@contoh.test
+UJI000084,Dewi Lestari,Sistem Informasi,mahasiswa84@contoh.test
+UJI000085,Putri Firmansyah,Manajemen,mahasiswa85@contoh.test
+UJI000086,Joko Setiawan,Informatika,mahasiswa86@contoh.test
+UJI000087,Dewi Kusuma,Akuntansi,mahasiswa87@contoh.test
+UJI000088,Dewi Pratama,Sistem Informasi,mahasiswa88@contoh.test
+UJI000089,Joko Permata,Manajemen,mahasiswa89@contoh.test
+UJI000090,Nanda Lestari,Informatika,mahasiswa90@contoh.test
+UJI000091,Hana Permata,Manajemen,mahasiswa91@contoh.test
+UJI000092,Hana Wijaya,Informatika,mahasiswa92@contoh.test
+UJI000093,Gita Setiawan,Informatika,mahasiswa93@contoh.test
+UJI000094,Citra Kusuma,Manajemen,mahasiswa94@contoh.test
+UJI000095,Maya Ramadhan,Manajemen,mahasiswa95@contoh.test
+UJI000096,Karin Pratama,Sistem Informasi,mahasiswa96@contoh.test
+UJI000097,Andi Lestari,Akuntansi,mahasiswa97@contoh.test
+UJI000098,Putri Anggraini,Sistem Informasi,mahasiswa98@contoh.test
+UJI000099,Citra Ramadhan,Manajemen,mahasiswa99@contoh.test
+UJI000100,Fajar Anggraini,Informatika,mahasiswa100@contoh.test
+UJI000101,Maya Ramadhan,Manajemen,mahasiswa101@contoh.test
+UJI000102,Budi Ramadhan,Akuntansi,mahasiswa102@contoh.test
+UJI000103,Maya Ramadhan,Manajemen,mahasiswa103@contoh.test
+UJI000104,Putri Ramadhan,Sistem Informasi,mahasiswa104@contoh.test
+UJI000105,Fajar Pratama,Informatika,mahasiswa105@contoh.test
+UJI000106,Dewi Permata,Akuntansi,mahasiswa106@contoh.test
+UJI000107,Karin Permata,Informatika,mahasiswa107@contoh.test
+UJI000108,Hana Ramadhan,Sistem Informasi,mahasiswa108@contoh.test
+UJI000109,Joko Firmansyah,Sistem Informasi,mahasiswa109@contoh.test
+UJI000110,Eka Firmansyah,Manajemen,mahasiswa110@contoh.test
+UJI000111,Andi Kusuma,Manajemen,mahasiswa111@contoh.test
+UJI000112,Hana Lestari,Sistem Informasi,mahasiswa112@contoh.test
+UJI000113,Eka Permata,Sistem Informasi,mahasiswa113@contoh.test
+UJI000114,Lina Wijaya,Akuntansi,mahasiswa114@contoh.test
+UJI000115,Karin Lestari,Sistem Informasi,mahasiswa115@contoh.test
+UJI000116,Andi Wijaya,Manajemen,mahasiswa116@contoh.test
+UJI000117,Dewi Lestari,Manajemen,mahasiswa117@contoh.test
+UJI000118,Eka Setiawan,Akuntansi,mahasiswa118@contoh.test
+UJI000119,Hana Setiawan,Manajemen,mahasiswa119@contoh.test
+UJI000120,Joko Pratama,Manajemen,mahasiswa120@contoh.test
+UJI000121,Nanda Kusuma,Akuntansi,mahasiswa121@contoh.test
+UJI000122,Joko Kusuma,Informatika,mahasiswa122@contoh.test
+UJI000123,Putri Kusuma,Sistem Informasi,mahasiswa123@contoh.test
+UJI000124,Maya Ramadhan,Informatika,mahasiswa124@contoh.test
+UJI000125,Joko Firmansyah,Akuntansi,mahasiswa125@contoh.test
+UJI000126,Budi Anggraini,Akuntansi,mahasiswa126@contoh.test
+UJI000127,Joko Ramadhan,Akuntansi,mahasiswa127@contoh.test
+UJI000128,Eka Permata,Sistem Informasi,mahasiswa128@contoh.test
+UJI000129,Fajar Pratama,Informatika,mahasiswa129@contoh.test
+UJI000130,Putri Setiawan,Informatika,mahasiswa130@contoh.test
+UJI000131,Andi Wijaya,Akuntansi,mahasiswa131@contoh.test
+UJI000132,Fajar Kusuma,Informatika,mahasiswa132@contoh.test
+UJI000133,Eka Permata,Manajemen,mahasiswa133@contoh.test
+UJI000134,Eka Saputra,Manajemen,mahasiswa134@contoh.test
+UJI000135,Dewi Wijaya,Akuntansi,mahasiswa135@contoh.test
+UJI000136,Dewi Anggraini,Akuntansi,mahasiswa136@contoh.test
+UJI000137,Karin Firmansyah,Informatika,mahasiswa137@contoh.test
+UJI000138,Joko Ramadhan,Manajemen,mahasiswa138@contoh.test
+UJI000139,Fajar Firmansyah,Manajemen,mahasiswa139@contoh.test
+UJI000140,Lina Wijaya,Sistem Informasi,mahasiswa140@contoh.test
+UJI000141,Maya Ramadhan,Akuntansi,mahasiswa141@contoh.test
+UJI000142,Gita Firmansyah,Manajemen,mahasiswa142@contoh.test
+UJI000143,Nanda Kusuma,Informatika,mahasiswa143@contoh.test
+UJI000144,Joko Kusuma,Informatika,mahasiswa144@contoh.test
+UJI000145,Citra Anggraini,Sistem Informasi,mahasiswa145@contoh.test
+UJI000146,Gita Wijaya,Manajemen,mahasiswa146@contoh.test
+UJI000147,Indra Kusuma,Manajemen,mahasiswa147@contoh.test
+UJI000148,Indra Wijaya,Manajemen,mahasiswa148@contoh.test
+UJI000149,Dewi Kusuma,Manajemen,mahasiswa149@contoh.test
+UJI000150,Karin Kusuma,Manajemen,mahasiswa150@contoh.test
+UJI000151,Dewi Anggraini,Sistem Informasi,mahasiswa151@contoh.test
+UJI000152,Hana Lestari,Sistem Informasi,mahasiswa152@contoh.test
+UJI000153,Fajar Permata,Manajemen,mahasiswa153@contoh.test
+UJI000154,Maya Anggraini,Sistem Informasi,mahasiswa154@contoh.test
+UJI000155,Nanda Pratama,Akuntansi,mahasiswa155@contoh.test
+UJI000156,Eka Saputra,Informatika,mahasiswa156@contoh.test
+UJI000157,Maya Anggraini,Akuntansi,mahasiswa157@contoh.test
+UJI000158,Karin Permata,Akuntansi,mahasiswa158@contoh.test
+UJI000159,Indra Lestari,Manajemen,mahasiswa159@contoh.test
+UJI000160,Joko Lestari,Informatika,mahasiswa160@contoh.test
+UJI000161,Dewi Permata,Informatika,mahasiswa161@contoh.test
+UJI000162,Andi Anggraini,Akuntansi,mahasiswa162@contoh.test
+UJI000163,Nanda Permata,Akuntansi,mahasiswa163@contoh.test
+UJI000164,Nanda Firmansyah,Sistem Informasi,mahasiswa164@contoh.test
+UJI000165,Karin Kusuma,Informatika,mahasiswa165@contoh.test
+UJI000166,Andi Setiawan,Informatika,mahasiswa166@contoh.test
+UJI000167,Hana Pratama,Sistem Informasi,mahasiswa167@contoh.test
+UJI000168,Lina Permata,Informatika,mahasiswa168@contoh.test
+UJI000169,Hana Wijaya,Sistem Informasi,mahasiswa169@contoh.test
+UJI000170,Hana Kusuma,Akuntansi,mahasiswa170@contoh.test
+UJI000171,Maya Saputra,Sistem Informasi,mahasiswa171@contoh.test
+UJI000172,Andi Kusuma,Manajemen,mahasiswa172@contoh.test
+UJI000173,Putri Firmansyah,Akuntansi,mahasiswa173@contoh.test
+UJI000174,Hana Kusuma,Manajemen,mahasiswa174@contoh.test
+UJI000175,Budi Saputra,Akuntansi,mahasiswa175@contoh.test
+UJI000176,Putri Firmansyah,Informatika,mahasiswa176@contoh.test
+UJI000177,Putri Setiawan,Manajemen,mahasiswa177@contoh.test
+UJI000178,Budi Pratama,Sistem Informasi,mahasiswa178@contoh.test
+UJI000179,Maya Setiawan,Sistem Informasi,mahasiswa179@contoh.test
+UJI000180,Hana Ramadhan,Akuntansi,mahasiswa180@contoh.test
+UJI000181,Dewi Pratama,Akuntansi,mahasiswa181@contoh.test
+UJI000182,Lina Firmansyah,Manajemen,mahasiswa182@contoh.test
+UJI000183,Lina Ramadhan,Manajemen,mahasiswa183@contoh.test
+UJI000184,Putri Kusuma,Akuntansi,mahasiswa184@contoh.test
+UJI000185,Gita Pratama,Sistem Informasi,mahasiswa185@contoh.test
+UJI000186,Fajar Firmansyah,Informatika,mahasiswa186@contoh.test
+UJI000187,Citra Firmansyah,Sistem Informasi,mahasiswa187@contoh.test
+UJI000188,Eka Setiawan,Sistem Informasi,mahasiswa188@contoh.test
+UJI000189,Fajar Pratama,Informatika,mahasiswa189@contoh.test
+UJI000190,Andi Firmansyah,Manajemen,mahasiswa190@contoh.test
+UJI000191,Lina Lestari,Informatika,mahasiswa191@contoh.test
+UJI000192,Hana Wijaya,Akuntansi,mahasiswa192@contoh.test
+UJI000193,Joko Kusuma,Akuntansi,mahasiswa193@contoh.test
+UJI000194,Hana Saputra,Informatika,mahasiswa194@contoh.test
+UJI000195,Fajar Ramadhan,Informatika,mahasiswa195@contoh.test
+UJI000196,Fajar Permata,Informatika,mahasiswa196@contoh.test
+UJI000197,Citra Setiawan,Informatika,mahasiswa197@contoh.test
+UJI000198,Citra Anggraini,Akuntansi,mahasiswa198@contoh.test
+UJI000199,Maya Pratama,Informatika,mahasiswa199@contoh.test
+UJI000200,Indra Wijaya,Manajemen,mahasiswa200@contoh.test
+UJI000201,Lina Setiawan,Sistem Informasi,mahasiswa201@contoh.test
+UJI000202,Gita Pratama,Informatika,mahasiswa202@contoh.test
+UJI000203,Citra Pratama,Informatika,mahasiswa203@contoh.test
+UJI000204,Indra Pratama,Manajemen,mahasiswa204@contoh.test
+UJI000205,Indra Setiawan,Manajemen,mahasiswa205@contoh.test
+UJI000206,Budi Kusuma,Akuntansi,mahasiswa206@contoh.test
+UJI000207,Karin Saputra,Informatika,mahasiswa207@contoh.test
+UJI000208,Eka Pratama,Informatika,mahasiswa208@contoh.test
+UJI000209,Indra Pratama,Informatika,mahasiswa209@contoh.test
+UJI000210,Karin Setiawan,Manajemen,mahasiswa210@contoh.test
+UJI000211,Gita Setiawan,Sistem Informasi,mahasiswa211@contoh.test
+UJI000212,Maya Lestari,Akuntansi,mahasiswa212@contoh.test
+UJI000213,Fajar Ramadhan,Informatika,mahasiswa213@contoh.test
+UJI000214,Dewi Pratama,Akuntansi,mahasiswa214@contoh.test
+UJI000215,Budi Pratama,Sistem Informasi,mahasiswa215@contoh.test
+UJI000216,Hana Wijaya,Informatika,mahasiswa216@contoh.test
+UJI000217,Fajar Pratama,Sistem Informasi,mahasiswa217@contoh.test
+UJI000218,Lina Pratama,Informatika,mahasiswa218@contoh.test
+UJI000219,Nanda Permata,Informatika,mahasiswa219@contoh.test
+UJI000220,Maya Pratama,Akuntansi,mahasiswa220@contoh.test
+UJI000221,Citra Ramadhan,Manajemen,mahasiswa221@contoh.test
+UJI000222,Joko Setiawan,Manajemen,mahasiswa222@contoh.test
+UJI000223,Maya Saputra,Manajemen,mahasiswa223@contoh.test
+UJI000224,Citra Anggraini,Akuntansi,mahasiswa224@contoh.test
+UJI000225,Indra Permata,Akuntansi,mahasiswa225@contoh.test
+UJI000226,Joko Ramadhan,Manajemen,mahasiswa226@contoh.test
+UJI000227,Lina Wijaya,Informatika,mahasiswa227@contoh.test
+UJI000228,Citra Kusuma,Manajemen,mahasiswa228@contoh.test
+UJI000229,Maya Wijaya,Manajemen,mahasiswa229@contoh.test
+UJI000230,Eka Anggraini,Akuntansi,mahasiswa230@contoh.test
+UJI000231,Dewi Permata,Sistem Informasi,mahasiswa231@contoh.test
+UJI000232,Lina Setiawan,Informatika,mahasiswa232@contoh.test
+UJI000233,Budi Saputra,Manajemen,mahasiswa233@contoh.test
+UJI000234,Budi Permata,Akuntansi,mahasiswa234@contoh.test
+UJI000235,Andi Pratama,Sistem Informasi,mahasiswa235@contoh.test
+UJI000236,Budi Anggraini,Akuntansi,mahasiswa236@contoh.test
+UJI000237,Joko Saputra,Akuntansi,mahasiswa237@contoh.test
+UJI000238,Karin Setiawan,Akuntansi,mahasiswa238@contoh.test
+UJI000239,Andi Lestari,Informatika,mahasiswa239@contoh.test
+UJI000240,Andi Wijaya,Informatika,mahasiswa240@contoh.test
+UJI000241,Nanda Firmansyah,Sistem Informasi,mahasiswa241@contoh.test
+UJI000242,Citra Anggraini,Akuntansi,mahasiswa242@contoh.test
+UJI000243,Dewi Saputra,Akuntansi,mahasiswa243@contoh.test
+UJI000244,Citra Kusuma,Informatika,mahasiswa244@contoh.test
+UJI000245,Joko Permata,Manajemen,mahasiswa245@contoh.test
+UJI000246,Indra Ramadhan,Manajemen,mahasiswa246@contoh.test
+UJI000247,Fajar Anggraini,Informatika,mahasiswa247@contoh.test
+UJI000248,Maya Kusuma,Informatika,mahasiswa248@contoh.test
+UJI000249,Gita Kusuma,Sistem Informasi,mahasiswa249@contoh.test
+UJI000250,Fajar Permata,Akuntansi,mahasiswa250@contoh.test
+UJI000251,Lina Anggraini,Sistem Informasi,mahasiswa251@contoh.test
+UJI000252,Indra Wijaya,Sistem Informasi,mahasiswa252@contoh.test
+UJI000253,Joko Wijaya,Informatika,mahasiswa253@contoh.test
+UJI000254,Hana Firmansyah,Informatika,mahasiswa254@contoh.test
+UJI000255,Citra Saputra,Manajemen,mahasiswa255@contoh.test
+UJI000256,Karin Saputra,Akuntansi,mahasiswa256@contoh.test
+UJI000257,Indra Saputra,Sistem Informasi,mahasiswa257@contoh.test
+UJI000258,Hana Ramadhan,Sistem Informasi,mahasiswa258@contoh.test
+UJI000259,Joko Firmansyah,Manajemen,mahasiswa259@contoh.test
+UJI000260,Putri Pratama,Sistem Informasi,mahasiswa260@contoh.test
+UJI000261,Joko Firmansyah,Akuntansi,mahasiswa261@contoh.test
+UJI000262,Indra Permata,Akuntansi,mahasiswa262@contoh.test
+UJI000263,Dewi Ramadhan,Akuntansi,mahasiswa263@contoh.test
+UJI000264,Nanda Permata,Akuntansi,mahasiswa264@contoh.test
+UJI000265,Hana Pratama,Manajemen,mahasiswa265@contoh.test
+UJI000266,Budi Permata,Informatika,mahasiswa266@contoh.test
+UJI000267,Lina Ramadhan,Informatika,mahasiswa267@contoh.test
+UJI000268,Gita Permata,Akuntansi,mahasiswa268@contoh.test
+UJI000269,Fajar Pratama,Sistem Informasi,mahasiswa269@contoh.test
+UJI000270,Karin Saputra,Manajemen,mahasiswa270@contoh.test
+UJI000271,Indra Wijaya,Akuntansi,mahasiswa271@contoh.test
+UJI000272,Karin Firmansyah,Sistem Informasi,mahasiswa272@contoh.test
+UJI000273,Joko Wijaya,Informatika,mahasiswa273@contoh.test
+UJI000274,Lina Saputra,Informatika,mahasiswa274@contoh.test
+UJI000275,Andi Saputra,Manajemen,mahasiswa275@contoh.test
+UJI000276,Indra Anggraini,Sistem Informasi,mahasiswa276@contoh.test
+UJI000277,Maya Wijaya,Akuntansi,mahasiswa277@contoh.test
+UJI000278,Fajar Lestari,Sistem Informasi,mahasiswa278@contoh.test
+UJI000279,Hana Permata,Informatika,mahasiswa279@contoh.test
+UJI000280,Andi Permata,Manajemen,mahasiswa280@contoh.test
+UJI000281,Citra Setiawan,Informatika,mahasiswa281@contoh.test
+UJI000282,Eka Saputra,Manajemen,mahasiswa282@contoh.test
+UJI000283,Indra Anggraini,Sistem Informasi,mahasiswa283@contoh.test
+UJI000284,Fajar Pratama,Informatika,mahasiswa284@contoh.test
+UJI000285,Hana Permata,Sistem Informasi,mahasiswa285@contoh.test
+UJI000286,Indra Pratama,Sistem Informasi,mahasiswa286@contoh.test
+UJI000287,Lina Saputra,Sistem Informasi,mahasiswa287@contoh.test
+UJI000288,Nanda Lestari,Akuntansi,mahasiswa288@contoh.test
+UJI000289,Putri Pratama,Sistem Informasi,mahasiswa289@contoh.test
+UJI000290,Nanda Pratama,Sistem Informasi,mahasiswa290@contoh.test
+UJI000291,Nanda Permata,Sistem Informasi,mahasiswa291@contoh.test
+UJI000292,Dewi Setiawan,Akuntansi,mahasiswa292@contoh.test
+UJI000293,Maya Ramadhan,Sistem Informasi,mahasiswa293@contoh.test
+UJI000294,Maya Lestari,Sistem Informasi,mahasiswa294@contoh.test
+UJI000295,Fajar Permata,Informatika,mahasiswa295@contoh.test
+UJI000296,Lina Pratama,Akuntansi,mahasiswa296@contoh.test
+UJI000297,Nanda Kusuma,Informatika,mahasiswa297@contoh.test
+UJI000298,Hana Permata,Manajemen,mahasiswa298@contoh.test
+UJI000299,Indra Setiawan,Akuntansi,mahasiswa299@contoh.test
+UJI000300,Putri Kusuma,Informatika,mahasiswa300@contoh.test
+UJI000301,Citra Ramadhan,Informatika,mahasiswa301@contoh.test
+UJI000302,Joko Lestari,Informatika,mahasiswa302@contoh.test
+UJI000303,Gita Permata,Akuntansi,mahasiswa303@contoh.test
+UJI000304,Dewi Pratama,Sistem Informasi,mahasiswa304@contoh.test
+UJI000305,Dewi Anggraini,Informatika,mahasiswa305@contoh.test
+UJI000306,Dewi Pratama,Informatika,mahasiswa306@contoh.test
+UJI000307,Lina Saputra,Akuntansi,mahasiswa307@contoh.test
+UJI000308,Citra Permata,Informatika,mahasiswa308@contoh.test
+UJI000309,Indra Setiawan,Manajemen,mahasiswa309@contoh.test
+UJI000310,Maya Permata,Informatika,mahasiswa310@contoh.test
+UJI000311,Dewi Pratama,Akuntansi,mahasiswa311@contoh.test
+UJI000312,Eka Ramadhan,Manajemen,mahasiswa312@contoh.test
+UJI000313,Hana Anggraini,Sistem Informasi,mahasiswa313@contoh.test
+UJI000314,Eka Ramadhan,Manajemen,mahasiswa314@contoh.test
+UJI000315,Citra Anggraini,Manajemen,mahasiswa315@contoh.test
+UJI000316,Hana Lestari,Sistem Informasi,mahasiswa316@contoh.test
+UJI000317,Putri Pratama,Manajemen,mahasiswa317@contoh.test
+UJI000318,Joko Kusuma,Akuntansi,mahasiswa318@contoh.test
+UJI000319,Nanda Anggraini,Sistem Informasi,mahasiswa319@contoh.test
+UJI000320,Joko Saputra,Manajemen,mahasiswa320@contoh.test
+UJI000321,Lina Permata,Informatika,mahasiswa321@contoh.test
+UJI000322,Andi Permata,Sistem Informasi,mahasiswa322@contoh.test
+UJI000323,Putri Anggraini,Akuntansi,mahasiswa323@contoh.test
+UJI000324,Eka Kusuma,Sistem Informasi,mahasiswa324@contoh.test
+UJI000325,Andi Wijaya,Sistem Informasi,mahasiswa325@contoh.test
+UJI000326,Citra Pratama,Manajemen,mahasiswa326@contoh.test
+UJI000327,Lina Firmansyah,Sistem Informasi,mahasiswa327@contoh.test
+UJI000328,Budi Lestari,Sistem Informasi,mahasiswa328@contoh.test
+UJI000329,Citra Permata,Manajemen,mahasiswa329@contoh.test
+UJI000330,Karin Setiawan,Informatika,mahasiswa330@contoh.test
+UJI000331,Andi Saputra,Sistem Informasi,mahasiswa331@contoh.test
+UJI000332,Gita Wijaya,Sistem Informasi,mahasiswa332@contoh.test
+UJI000333,Fajar Setiawan,Manajemen,mahasiswa333@contoh.test
+UJI000334,Maya Pratama,Informatika,mahasiswa334@contoh.test
+UJI000335,Eka Kusuma,Akuntansi,mahasiswa335@contoh.test
+UJI000336,Andi Wijaya,Akuntansi,mahasiswa336@contoh.test
+UJI000337,Fajar Setiawan,Akuntansi,mahasiswa337@contoh.test
+UJI000338,Eka Permata,Informatika,mahasiswa338@contoh.test
+UJI000339,Karin Ramadhan,Sistem Informasi,mahasiswa339@contoh.test
+UJI000340,Lina Anggraini,Informatika,mahasiswa340@contoh.test
+UJI000341,Nanda Kusuma,Informatika,mahasiswa341@contoh.test
+UJI000342,Nanda Lestari,Manajemen,mahasiswa342@contoh.test
+UJI000343,Maya Wijaya,Akuntansi,mahasiswa343@contoh.test
+UJI000344,Nanda Setiawan,Sistem Informasi,mahasiswa344@contoh.test
+UJI000345,Hana Wijaya,Sistem Informasi,mahasiswa345@contoh.test
+UJI000346,Karin Saputra,Sistem Informasi,mahasiswa346@contoh.test
+UJI000347,Putri Kusuma,Informatika,mahasiswa347@contoh.test
+UJI000348,Putri Ramadhan,Informatika,mahasiswa348@contoh.test
+UJI000349,Gita Anggraini,Manajemen,mahasiswa349@contoh.test
+UJI000350,Nanda Lestari,Informatika,mahasiswa350@contoh.test
+UJI000351,Karin Lestari,Manajemen,mahasiswa351@contoh.test
+UJI000352,Nanda Kusuma,Manajemen,mahasiswa352@contoh.test
+UJI000353,Nanda Kusuma,Akuntansi,mahasiswa353@contoh.test
+UJI000354,Joko Pratama,Manajemen,mahasiswa354@contoh.test
+UJI000355,Eka Kusuma,Manajemen,mahasiswa355@contoh.test
+UJI000356,Nanda Firmansyah,Akuntansi,mahasiswa356@contoh.test
+UJI000357,Karin Anggraini,Sistem Informasi,mahasiswa357@contoh.test
+UJI000358,Joko Wijaya,Informatika,mahasiswa358@contoh.test
+UJI000359,Eka Wijaya,Sistem Informasi,mahasiswa359@contoh.test
+UJI000360,Dewi Kusuma,Manajemen,mahasiswa360@contoh.test
+UJI000361,Nanda Anggraini,Sistem Informasi,mahasiswa361@contoh.test
+UJI000362,Karin Setiawan,Sistem Informasi,mahasiswa362@contoh.test
+UJI000363,Dewi Saputra,Informatika,mahasiswa363@contoh.test
+UJI000364,Maya Permata,Informatika,mahasiswa364@contoh.test
+UJI000365,Nanda Pratama,Manajemen,mahasiswa365@contoh.test
+UJI000366,Gita Kusuma,Akuntansi,mahasiswa366@contoh.test
+UJI000367,Budi Wijaya,Informatika,mahasiswa367@contoh.test
+UJI000368,Joko Firmansyah,Sistem Informasi,mahasiswa368@contoh.test
+UJI000369,Fajar Ramadhan,Manajemen,mahasiswa369@contoh.test
+UJI000370,Putri Anggraini,Sistem Informasi,mahasiswa370@contoh.test
+UJI000371,Eka Saputra,Manajemen,mahasiswa371@contoh.test
+UJI000372,Budi Firmansyah,Akuntansi,mahasiswa372@contoh.test
+UJI000373,Eka Permata,Informatika,mahasiswa373@contoh.test
+UJI000374,Dewi Wijaya,Manajemen,mahasiswa374@contoh.test
+UJI000375,Andi Anggraini,Informatika,mahasiswa375@contoh.test
+UJI000376,Joko Firmansyah,Informatika,mahasiswa376@contoh.test
+UJI000377,Gita Anggraini,Informatika,mahasiswa377@contoh.test
+UJI000378,Indra Setiawan,Sistem Informasi,mahasiswa378@contoh.test
+UJI000379,Karin Lestari,Sistem Informasi,mahasiswa379@contoh.test
+UJI000380,Joko Pratama,Manajemen,mahasiswa380@contoh.test
+UJI000381,Indra Wijaya,Manajemen,mahasiswa381@contoh.test
+UJI000382,Maya Lestari,Sistem Informasi,mahasiswa382@contoh.test
+UJI000383,Putri Setiawan,Sistem Informasi,mahasiswa383@contoh.test
+UJI000384,Budi Pratama,Sistem Informasi,mahasiswa384@contoh.test
+UJI000385,Gita Ramadhan,Sistem Informasi,mahasiswa385@contoh.test
+UJI000386,Putri Permata,Sistem Informasi,mahasiswa386@contoh.test
+UJI000387,Joko Pratama,Informatika,mahasiswa387@contoh.test
+UJI000388,Indra Pratama,Akuntansi,mahasiswa388@contoh.test
+UJI000389,Hana Wijaya,Informatika,mahasiswa389@contoh.test
+UJI000390,Putri Lestari,Manajemen,mahasiswa390@contoh.test
+UJI000391,Citra Lestari,Manajemen,mahasiswa391@contoh.test
+UJI000392,Hana Lestari,Akuntansi,mahasiswa392@contoh.test
+UJI000393,Lina Permata,Akuntansi,mahasiswa393@contoh.test
+UJI000394,Nanda Setiawan,Sistem Informasi,mahasiswa394@contoh.test
+UJI000395,Karin Lestari,Sistem Informasi,mahasiswa395@contoh.test
+UJI000396,Nanda Pratama,Akuntansi,mahasiswa396@contoh.test
+UJI000397,Citra Pratama,Manajemen,mahasiswa397@contoh.test
+UJI000398,Karin Permata,Informatika,mahasiswa398@contoh.test
+UJI000399,Indra Ramadhan,Akuntansi,mahasiswa399@contoh.test
+UJI000400,Karin Firmansyah,Manajemen,mahasiswa400@contoh.test
+UJI000401,Fajar Wijaya,Sistem Informasi,mahasiswa401@contoh.test
+UJI000402,Putri Permata,Manajemen,mahasiswa402@contoh.test
+UJI000403,Karin Firmansyah,Akuntansi,mahasiswa403@contoh.test
+UJI000404,Hana Anggraini,Akuntansi,mahasiswa404@contoh.test
+UJI000405,Hana Kusuma,Sistem Informasi,mahasiswa405@contoh.test
+UJI000406,Hana Permata,Informatika,mahasiswa406@contoh.test
+UJI000407,Dewi Lestari,Manajemen,mahasiswa407@contoh.test
+UJI000408,Andi Ramadhan,Sistem Informasi,mahasiswa408@contoh.test
+UJI000409,Hana Pratama,Sistem Informasi,mahasiswa409@contoh.test
+UJI000410,Maya Ramadhan,Akuntansi,mahasiswa410@contoh.test
+UJI000411,Maya Permata,Akuntansi,mahasiswa411@contoh.test
+UJI000412,Eka Permata,Informatika,mahasiswa412@contoh.test
+UJI000413,Indra Firmansyah,Manajemen,mahasiswa413@contoh.test
+UJI000414,Fajar Kusuma,Akuntansi,mahasiswa414@contoh.test
+UJI000415,Nanda Ramadhan,Informatika,mahasiswa415@contoh.test
+UJI000416,Budi Firmansyah,Informatika,mahasiswa416@contoh.test
+UJI000417,Budi Saputra,Manajemen,mahasiswa417@contoh.test
+UJI000418,Maya Ramadhan,Sistem Informasi,mahasiswa418@contoh.test
+UJI000419,Hana Wijaya,Akuntansi,mahasiswa419@contoh.test
+UJI000420,Indra Wijaya,Akuntansi,mahasiswa420@contoh.test
+UJI000421,Hana Setiawan,Manajemen,mahasiswa421@contoh.test
+UJI000422,Maya Wijaya,Manajemen,mahasiswa422@contoh.test
+UJI000423,Eka Wijaya,Informatika,mahasiswa423@contoh.test
+UJI000424,Nanda Pratama,Akuntansi,mahasiswa424@contoh.test
+UJI000425,Indra Pratama,Informatika,mahasiswa425@contoh.test
+UJI000426,Indra Permata,Sistem Informasi,mahasiswa426@contoh.test
+UJI000427,Dewi Saputra,Informatika,mahasiswa427@contoh.test
+UJI000428,Karin Setiawan,Akuntansi,mahasiswa428@contoh.test
+UJI000429,Lina Lestari,Akuntansi,mahasiswa429@contoh.test
+UJI000430,Fajar Permata,Manajemen,mahasiswa430@contoh.test
+UJI000431,Joko Wijaya,Manajemen,mahasiswa431@contoh.test
+UJI000432,Andi Firmansyah,Manajemen,mahasiswa432@contoh.test
+UJI000433,Putri Firmansyah,Akuntansi,mahasiswa433@contoh.test
+UJI000434,Karin Pratama,Informatika,mahasiswa434@contoh.test
+UJI000435,Joko Pratama,Informatika,mahasiswa435@contoh.test
+UJI000436,Maya Anggraini,Manajemen,mahasiswa436@contoh.test
+UJI000437,Nanda Anggraini,Sistem Informasi,mahasiswa437@contoh.test
+UJI000438,Karin Lestari,Informatika,mahasiswa438@contoh.test
+UJI000439,Indra Firmansyah,Informatika,mahasiswa439@contoh.test
+UJI000440,Eka Firmansyah,Informatika,mahasiswa440@contoh.test
+UJI000441,Dewi Ramadhan,Manajemen,mahasiswa441@contoh.test
+UJI000442,Nanda Permata,Manajemen,mahasiswa442@contoh.test
+UJI000443,Dewi Ramadhan,Akuntansi,mahasiswa443@contoh.test
+UJI000444,Lina Ramadhan,Manajemen,mahasiswa444@contoh.test
+UJI000445,Maya Firmansyah,Sistem Informasi,mahasiswa445@contoh.test
+UJI000446,Joko Lestari,Manajemen,mahasiswa446@contoh.test
+UJI000447,Karin Permata,Informatika,mahasiswa447@contoh.test
+UJI000448,Joko Ramadhan,Sistem Informasi,mahasiswa448@contoh.test
+UJI000449,Karin Wijaya,Manajemen,mahasiswa449@contoh.test
+UJI000450,Karin Kusuma,Informatika,mahasiswa450@contoh.test
+UJI000451,Gita Firmansyah,Akuntansi,mahasiswa451@contoh.test
+UJI000452,Putri Wijaya,Akuntansi,mahasiswa452@contoh.test
+UJI000453,Nanda Ramadhan,Informatika,mahasiswa453@contoh.test
+UJI000454,Lina Pratama,Sistem Informasi,mahasiswa454@contoh.test
+UJI000455,Indra Wijaya,Informatika,mahasiswa455@contoh.test
+UJI000456,Maya Saputra,Akuntansi,mahasiswa456@contoh.test
+UJI000457,Putri Pratama,Akuntansi,mahasiswa457@contoh.test
+UJI000458,Putri Kusuma,Informatika,mahasiswa458@contoh.test
+UJI000459,Indra Wijaya,Akuntansi,mahasiswa459@contoh.test
+UJI000460,Maya Setiawan,Sistem Informasi,mahasiswa460@contoh.test
+UJI000461,Budi Anggraini,Informatika,mahasiswa461@contoh.test
+UJI000462,Maya Firmansyah,Informatika,mahasiswa462@contoh.test
+UJI000463,Budi Ramadhan,Akuntansi,mahasiswa463@contoh.test
+UJI000464,Citra Wijaya,Informatika,mahasiswa464@contoh.test
+UJI000465,Indra Ramadhan,Sistem Informasi,mahasiswa465@contoh.test
+UJI000466,Citra Permata,Sistem Informasi,mahasiswa466@contoh.test
+UJI000467,Eka Setiawan,Manajemen,mahasiswa467@contoh.test
+UJI000468,Joko Wijaya,Akuntansi,mahasiswa468@contoh.test
+UJI000469,Lina Ramadhan,Akuntansi,mahasiswa469@contoh.test
+UJI000470,Indra Ramadhan,Informatika,mahasiswa470@contoh.test
+UJI000471,Gita Firmansyah,Manajemen,mahasiswa471@contoh.test
+UJI000472,Karin Permata,Sistem Informasi,mahasiswa472@contoh.test
+UJI000473,Gita Anggraini,Akuntansi,mahasiswa473@contoh.test
+UJI000474,Hana Ramadhan,Manajemen,mahasiswa474@contoh.test
+UJI000475,Putri Lestari,Manajemen,mahasiswa475@contoh.test
+UJI000476,Dewi Kusuma,Akuntansi,mahasiswa476@contoh.test
+UJI000477,Joko Firmansyah,Sistem Informasi,mahasiswa477@contoh.test
+UJI000478,Gita Anggraini,Sistem Informasi,mahasiswa478@contoh.test
+UJI000479,Indra Kusuma,Akuntansi,mahasiswa479@contoh.test
+UJI000480,Fajar Kusuma,Manajemen,mahasiswa480@contoh.test
+UJI000481,Putri Pratama,Informatika,mahasiswa481@contoh.test
+UJI000482,Lina Anggraini,Sistem Informasi,mahasiswa482@contoh.test
+UJI000483,Fajar Saputra,Sistem Informasi,mahasiswa483@contoh.test
+UJI000484,Andi Permata,Informatika,mahasiswa484@contoh.test
+UJI000485,Maya Wijaya,Akuntansi,mahasiswa485@contoh.test
+UJI000486,Lina Kusuma,Informatika,mahasiswa486@contoh.test
+UJI000487,Citra Kusuma,Akuntansi,mahasiswa487@contoh.test
+UJI000488,Nanda Setiawan,Akuntansi,mahasiswa488@contoh.test
+UJI000489,Nanda Permata,Informatika,mahasiswa489@contoh.test
+UJI000490,Putri Anggraini,Akuntansi,mahasiswa490@contoh.test
+UJI000491,Citra Saputra,Akuntansi,mahasiswa491@contoh.test
+UJI000492,Dewi Firmansyah,Informatika,mahasiswa492@contoh.test
+UJI000493,Andi Kusuma,Akuntansi,mahasiswa493@contoh.test
+UJI000494,Indra Saputra,Sistem Informasi,mahasiswa494@contoh.test
+UJI000495,Nanda Pratama,Informatika,mahasiswa495@contoh.test
+UJI000496,Dewi Pratama,Sistem Informasi,mahasiswa496@contoh.test
+UJI000497,Lina Permata,Sistem Informasi,mahasiswa497@contoh.test
+UJI000498,Fajar Kusuma,Manajemen,mahasiswa498@contoh.test
+UJI000499,Eka Setiawan,Sistem Informasi,mahasiswa499@contoh.test
+UJI000500,Nanda Kusuma,Informatika,mahasiswa500@contoh.test
+UJI000501,Lina Ramadhan,Akuntansi,mahasiswa501@contoh.test
+UJI000502,Lina Ramadhan,Sistem Informasi,mahasiswa502@contoh.test
+UJI000503,Nanda Setiawan,Informatika,mahasiswa503@contoh.test
+UJI000504,Nanda Permata,Akuntansi,mahasiswa504@contoh.test
+UJI000505,Budi Ramadhan,Sistem Informasi,mahasiswa505@contoh.test
+UJI000506,Eka Wijaya,Manajemen,mahasiswa506@contoh.test
+UJI000507,Joko Firmansyah,Sistem Informasi,mahasiswa507@contoh.test
+UJI000508,Maya Firmansyah,Manajemen,mahasiswa508@contoh.test
+UJI000509,Maya Pratama,Informatika,mahasiswa509@contoh.test
+UJI000510,Budi Kusuma,Informatika,mahasiswa510@contoh.test
+UJI000511,Maya Anggraini,Informatika,mahasiswa511@contoh.test
+UJI000512,Indra Wijaya,Sistem Informasi,mahasiswa512@contoh.test
+UJI000513,Citra Anggraini,Manajemen,mahasiswa513@contoh.test
+UJI000514,Dewi Anggraini,Sistem Informasi,mahasiswa514@contoh.test
+UJI000515,Citra Kusuma,Akuntansi,mahasiswa515@contoh.test
+UJI000516,Dewi Anggraini,Akuntansi,mahasiswa516@contoh.test
+UJI000517,Joko Pratama,Sistem Informasi,mahasiswa517@contoh.test
+UJI000518,Hana Permata,Sistem Informasi,mahasiswa518@contoh.test
+UJI000519,Joko Ramadhan,Akuntansi,mahasiswa519@contoh.test
+UJI000520,Karin Wijaya,Akuntansi,mahasiswa520@contoh.test
+UJI000521,Indra Permata,Akuntansi,mahasiswa521@contoh.test
+UJI000522,Gita Firmansyah,Akuntansi,mahasiswa522@contoh.test
+UJI000523,Putri Saputra,Sistem Informasi,mahasiswa523@contoh.test
+UJI000524,Citra Lestari,Informatika,mahasiswa524@contoh.test
+UJI000525,Nanda Firmansyah,Manajemen,mahasiswa525@contoh.test
+UJI000526,Gita Permata,Akuntansi,mahasiswa526@contoh.test
+UJI000527,Putri Saputra,Manajemen,mahasiswa527@contoh.test
+UJI000528,Maya Saputra,Akuntansi,mahasiswa528@contoh.test
+UJI000529,Budi Wijaya,Akuntansi,mahasiswa529@contoh.test
+UJI000530,Hana Anggraini,Akuntansi,mahasiswa530@contoh.test
+UJI000531,Andi Lestari,Manajemen,mahasiswa531@contoh.test
+UJI000532,Dewi Saputra,Sistem Informasi,mahasiswa532@contoh.test
+UJI000533,Lina Saputra,Akuntansi,mahasiswa533@contoh.test
+UJI000534,Joko Lestari,Manajemen,mahasiswa534@contoh.test
+UJI000535,Lina Saputra,Manajemen,mahasiswa535@contoh.test
+UJI000536,Joko Pratama,Manajemen,mahasiswa536@contoh.test
+UJI000537,Dewi Saputra,Informatika,mahasiswa537@contoh.test
+UJI000538,Gita Saputra,Akuntansi,mahasiswa538@contoh.test
+UJI000539,Indra Permata,Informatika,mahasiswa539@contoh.test
+UJI000540,Budi Pratama,Sistem Informasi,mahasiswa540@contoh.test
+UJI000541,Eka Firmansyah,Sistem Informasi,mahasiswa541@contoh.test
+UJI000542,Eka Setiawan,Informatika,mahasiswa542@contoh.test
+UJI000543,Indra Wijaya,Manajemen,mahasiswa543@contoh.test
+UJI000544,Putri Ramadhan,Akuntansi,mahasiswa544@contoh.test
+UJI000545,Andi Anggraini,Informatika,mahasiswa545@contoh.test
+UJI000546,Hana Saputra,Akuntansi,mahasiswa546@contoh.test
+UJI000547,Gita Setiawan,Informatika,mahasiswa547@contoh.test
+UJI000548,Gita Firmansyah,Informatika,mahasiswa548@contoh.test
+UJI000549,Eka Wijaya,Manajemen,mahasiswa549@contoh.test
+UJI000550,Fajar Saputra,Sistem Informasi,mahasiswa550@contoh.test
+UJI000551,Lina Wijaya,Manajemen,mahasiswa551@contoh.test
+UJI000552,Maya Lestari,Informatika,mahasiswa552@contoh.test
+UJI000553,Gita Anggraini,Manajemen,mahasiswa553@contoh.test
+UJI000554,Hana Pratama,Manajemen,mahasiswa554@contoh.test
+UJI000555,Dewi Kusuma,Informatika,mahasiswa555@contoh.test
+UJI000556,Karin Saputra,Sistem Informasi,mahasiswa556@contoh.test
+UJI000557,Gita Lestari,Informatika,mahasiswa557@contoh.test
+UJI000558,Maya Permata,Akuntansi,mahasiswa558@contoh.test
+UJI000559,Hana Wijaya,Informatika,mahasiswa559@contoh.test
+UJI000560,Budi Lestari,Manajemen,mahasiswa560@contoh.test
+UJI000561,Indra Saputra,Akuntansi,mahasiswa561@contoh.test
+UJI000562,Eka Setiawan,Manajemen,mahasiswa562@contoh.test
+UJI000563,Maya Anggraini,Manajemen,mahasiswa563@contoh.test
+UJI000564,Hana Lestari,Sistem Informasi,mahasiswa564@contoh.test
+UJI000565,Maya Pratama,Sistem Informasi,mahasiswa565@contoh.test
+UJI000566,Indra Wijaya,Manajemen,mahasiswa566@contoh.test
+UJI000567,Karin Anggraini,Akuntansi,mahasiswa567@contoh.test
+UJI000568,Joko Saputra,Akuntansi,mahasiswa568@contoh.test
+UJI000569,Eka Anggraini,Informatika,mahasiswa569@contoh.test
+UJI000570,Lina Kusuma,Sistem Informasi,mahasiswa570@contoh.test
+UJI000571,Nanda Lestari,Manajemen,mahasiswa571@contoh.test
+UJI000572,Andi Firmansyah,Akuntansi,mahasiswa572@contoh.test
+UJI000573,Dewi Lestari,Manajemen,mahasiswa573@contoh.test
+UJI000574,Joko Setiawan,Akuntansi,mahasiswa574@contoh.test
+UJI000575,Lina Saputra,Informatika,mahasiswa575@contoh.test
+UJI000576,Budi Wijaya,Manajemen,mahasiswa576@contoh.test
+UJI000577,Nanda Saputra,Sistem Informasi,mahasiswa577@contoh.test
+UJI000578,Karin Pratama,Manajemen,mahasiswa578@contoh.test
+UJI000579,Gita Wijaya,Sistem Informasi,mahasiswa579@contoh.test
+UJI000580,Indra Ramadhan,Manajemen,mahasiswa580@contoh.test
+UJI000581,Hana Anggraini,Manajemen,mahasiswa581@contoh.test
+UJI000582,Joko Kusuma,Manajemen,mahasiswa582@contoh.test
+UJI000583,Andi Firmansyah,Informatika,mahasiswa583@contoh.test
+UJI000584,Fajar Permata,Akuntansi,mahasiswa584@contoh.test
+UJI000585,Citra Permata,Manajemen,mahasiswa585@contoh.test
+UJI000586,Budi Wijaya,Informatika,mahasiswa586@contoh.test
+UJI000587,Budi Anggraini,Informatika,mahasiswa587@contoh.test
+UJI000588,Nanda Permata,Sistem Informasi,mahasiswa588@contoh.test
+UJI000589,Citra Lestari,Sistem Informasi,mahasiswa589@contoh.test
+UJI000590,Joko Pratama,Akuntansi,mahasiswa590@contoh.test
+UJI000591,Hana Kusuma,Informatika,mahasiswa591@contoh.test
+UJI000592,Maya Firmansyah,Informatika,mahasiswa592@contoh.test
+UJI000593,Dewi Ramadhan,Manajemen,mahasiswa593@contoh.test
+UJI000594,Budi Permata,Manajemen,mahasiswa594@contoh.test
+UJI000595,Nanda Setiawan,Informatika,mahasiswa595@contoh.test
+UJI000596,Gita Kusuma,Sistem Informasi,mahasiswa596@contoh.test
+UJI000597,Joko Wijaya,Informatika,mahasiswa597@contoh.test
+UJI000598,Eka Wijaya,Manajemen,mahasiswa598@contoh.test
+UJI000599,Putri Permata,Informatika,mahasiswa599@contoh.test
+UJI000600,Joko Wijaya,Informatika,mahasiswa600@contoh.test
+UJI000601,Fajar Wijaya,Akuntansi,mahasiswa601@contoh.test
+UJI000602,Joko Permata,Sistem Informasi,mahasiswa602@contoh.test
+UJI000603,Lina Ramadhan,Informatika,mahasiswa603@contoh.test
+UJI000604,Nanda Permata,Informatika,mahasiswa604@contoh.test
+UJI000605,Maya Saputra,Sistem Informasi,mahasiswa605@contoh.test
+UJI000606,Putri Lestari,Akuntansi,mahasiswa606@contoh.test
+UJI000607,Hana Saputra,Akuntansi,mahasiswa607@contoh.test
+UJI000608,Maya Kusuma,Akuntansi,mahasiswa608@contoh.test
+UJI000609,Gita Pratama,Manajemen,mahasiswa609@contoh.test
+UJI000610,Budi Kusuma,Informatika,mahasiswa610@contoh.test
+UJI000611,Eka Wijaya,Manajemen,mahasiswa611@contoh.test
+UJI000612,Indra Wijaya,Informatika,mahasiswa612@contoh.test
+UJI000613,Dewi Kusuma,Akuntansi,mahasiswa613@contoh.test
+UJI000614,Citra Setiawan,Informatika,mahasiswa614@contoh.test
+UJI000615,Dewi Kusuma,Akuntansi,mahasiswa615@contoh.test
+UJI000616,Fajar Lestari,Akuntansi,mahasiswa616@contoh.test
+UJI000617,Eka Ramadhan,Sistem Informasi,mahasiswa617@contoh.test
+UJI000618,Gita Firmansyah,Manajemen,mahasiswa618@contoh.test
+UJI000619,Dewi Pratama,Sistem Informasi,mahasiswa619@contoh.test
+UJI000620,Hana Ramadhan,Sistem Informasi,mahasiswa620@contoh.test
+UJI000621,Citra Saputra,Informatika,mahasiswa621@contoh.test
+UJI000622,Hana Lestari,Sistem Informasi,mahasiswa622@contoh.test
+UJI000623,Gita Lestari,Informatika,mahasiswa623@contoh.test
+UJI000624,Joko Saputra,Akuntansi,mahasiswa624@contoh.test
+UJI000625,Citra Pratama,Akuntansi,mahasiswa625@contoh.test
+UJI000626,Hana Saputra,Informatika,mahasiswa626@contoh.test
+UJI000627,Joko Lestari,Informatika,mahasiswa627@contoh.test
+UJI000628,Dewi Ramadhan,Akuntansi,mahasiswa628@contoh.test
+UJI000629,Eka Ramadhan,Akuntansi,mahasiswa629@contoh.test
+UJI000630,Budi Pratama,Manajemen,mahasiswa630@contoh.test
+UJI000631,Dewi Anggraini,Sistem Informasi,mahasiswa631@contoh.test
+UJI000632,Citra Permata,Akuntansi,mahasiswa632@contoh.test
+UJI000633,Budi Wijaya,Sistem Informasi,mahasiswa633@contoh.test
+UJI000634,Andi Lestari,Manajemen,mahasiswa634@contoh.test
+UJI000635,Gita Lestari,Informatika,mahasiswa635@contoh.test
+UJI000636,Andi Pratama,Manajemen,mahasiswa636@contoh.test
+UJI000637,Eka Wijaya,Manajemen,mahasiswa637@contoh.test
+UJI000638,Maya Ramadhan,Akuntansi,mahasiswa638@contoh.test
+UJI000639,Hana Ramadhan,Informatika,mahasiswa639@contoh.test
+UJI000640,Maya Pratama,Informatika,mahasiswa640@contoh.test
+UJI000641,Budi Anggraini,Informatika,mahasiswa641@contoh.test
+UJI000642,Hana Wijaya,Akuntansi,mahasiswa642@contoh.test
+UJI000643,Putri Permata,Akuntansi,mahasiswa643@contoh.test
+UJI000644,Citra Wijaya,Sistem Informasi,mahasiswa644@contoh.test
+UJI000645,Fajar Ramadhan,Sistem Informasi,mahasiswa645@contoh.test
+UJI000646,Citra Pratama,Informatika,mahasiswa646@contoh.test
+UJI000647,Andi Kusuma,Sistem Informasi,mahasiswa647@contoh.test
+UJI000648,Karin Permata,Sistem Informasi,mahasiswa648@contoh.test
+UJI000649,Citra Anggraini,Akuntansi,mahasiswa649@contoh.test
+UJI000650,Fajar Setiawan,Akuntansi,mahasiswa650@contoh.test
+UJI000651,Andi Firmansyah,Informatika,mahasiswa651@contoh.test
+UJI000652,Karin Setiawan,Akuntansi,mahasiswa652@contoh.test
+UJI000653,Indra Lestari,Informatika,mahasiswa653@contoh.test
+UJI000654,Gita Setiawan,Manajemen,mahasiswa654@contoh.test
+UJI000655,Budi Anggraini,Sistem Informasi,mahasiswa655@contoh.test
+UJI000656,Andi Lestari,Informatika,mahasiswa656@contoh.test
+UJI000657,Andi Ramadhan,Akuntansi,mahasiswa657@contoh.test
+UJI000658,Putri Ramadhan,Akuntansi,mahasiswa658@contoh.test
+UJI000659,Karin Setiawan,Sistem Informasi,mahasiswa659@contoh.test
+UJI000660,Gita Lestari,Sistem Informasi,mahasiswa660@contoh.test
+UJI000661,Andi Kusuma,Manajemen,mahasiswa661@contoh.test
+UJI000662,Budi Wijaya,Sistem Informasi,mahasiswa662@contoh.test
+UJI000663,Lina Pratama,Manajemen,mahasiswa663@contoh.test
+UJI000664,Maya Lestari,Akuntansi,mahasiswa664@contoh.test
+UJI000665,Hana Saputra,Informatika,mahasiswa665@contoh.test
+UJI000666,Indra Pratama,Informatika,mahasiswa666@contoh.test
+UJI000667,Maya Pratama,Manajemen,mahasiswa667@contoh.test
+UJI000668,Joko Wijaya,Akuntansi,mahasiswa668@contoh.test
+UJI000669,Budi Lestari,Sistem Informasi,mahasiswa669@contoh.test
+UJI000670,Fajar Kusuma,Akuntansi,mahasiswa670@contoh.test
+UJI000671,Joko Pratama,Sistem Informasi,mahasiswa671@contoh.test
+UJI000672,Joko Wijaya,Informatika,mahasiswa672@contoh.test
+UJI000673,Citra Lestari,Informatika,mahasiswa673@contoh.test
+UJI000674,Joko Pratama,Informatika,mahasiswa674@contoh.test
+UJI000675,Indra Setiawan,Informatika,mahasiswa675@contoh.test
+UJI000676,Andi Lestari,Akuntansi,mahasiswa676@contoh.test
+UJI000677,Gita Permata,Informatika,mahasiswa677@contoh.test
+UJI000678,Fajar Setiawan,Manajemen,mahasiswa678@contoh.test
+UJI000679,Karin Pratama,Sistem Informasi,mahasiswa679@contoh.test
+UJI000680,Andi Ramadhan,Akuntansi,mahasiswa680@contoh.test
+UJI000681,Joko Saputra,Sistem Informasi,mahasiswa681@contoh.test
+UJI000682,Lina Lestari,Manajemen,mahasiswa682@contoh.test
+UJI000683,Dewi Firmansyah,Informatika,mahasiswa683@contoh.test
+UJI000684,Andi Ramadhan,Manajemen,mahasiswa684@contoh.test
+UJI000685,Fajar Firmansyah,Sistem Informasi,mahasiswa685@contoh.test
+UJI000686,Hana Kusuma,Sistem Informasi,mahasiswa686@contoh.test
+UJI000687,Budi Lestari,Sistem Informasi,mahasiswa687@contoh.test
+UJI000688,Karin Permata,Manajemen,mahasiswa688@contoh.test
+UJI000689,Karin Pratama,Manajemen,mahasiswa689@contoh.test
+UJI000690,Budi Firmansyah,Informatika,mahasiswa690@contoh.test
+UJI000691,Karin Saputra,Akuntansi,mahasiswa691@contoh.test
+UJI000692,Gita Anggraini,Akuntansi,mahasiswa692@contoh.test
+UJI000693,Nanda Pratama,Akuntansi,mahasiswa693@contoh.test
+UJI000694,Dewi Pratama,Akuntansi,mahasiswa694@contoh.test
+UJI000695,Hana Saputra,Akuntansi,mahasiswa695@contoh.test
+UJI000696,Joko Anggraini,Sistem Informasi,mahasiswa696@contoh.test
+UJI000697,Lina Pratama,Akuntansi,mahasiswa697@contoh.test
+UJI000698,Hana Pratama,Informatika,mahasiswa698@contoh.test
+UJI000699,Joko Anggraini,Manajemen,mahasiswa699@contoh.test
+UJI000700,Hana Kusuma,Akuntansi,mahasiswa700@contoh.test
+UJI000701,Andi Wijaya,Informatika,mahasiswa701@contoh.test
+UJI000702,Hana Pratama,Informatika,mahasiswa702@contoh.test
+UJI000703,Hana Pratama,Manajemen,mahasiswa703@contoh.test
+UJI000704,Citra Pratama,Manajemen,mahasiswa704@contoh.test
+UJI000705,Eka Wijaya,Sistem Informasi,mahasiswa705@contoh.test
+UJI000706,Maya Wijaya,Manajemen,mahasiswa706@contoh.test
+UJI000707,Fajar Wijaya,Akuntansi,mahasiswa707@contoh.test
+UJI000708,Joko Firmansyah,Informatika,mahasiswa708@contoh.test
+UJI000709,Budi Saputra,Akuntansi,mahasiswa709@contoh.test
+UJI000710,Fajar Ramadhan,Akuntansi,mahasiswa710@contoh.test
+UJI000711,Eka Permata,Akuntansi,mahasiswa711@contoh.test
+UJI000712,Andi Firmansyah,Manajemen,mahasiswa712@contoh.test
+UJI000713,Indra Saputra,Informatika,mahasiswa713@contoh.test
+UJI000714,Putri Permata,Akuntansi,mahasiswa714@contoh.test
+UJI000715,Lina Permata,Sistem Informasi,mahasiswa715@contoh.test
+UJI000716,Indra Setiawan,Sistem Informasi,mahasiswa716@contoh.test
+UJI000717,Dewi Anggraini,Informatika,mahasiswa717@contoh.test
+UJI000718,Citra Lestari,Manajemen,mahasiswa718@contoh.test
+UJI000719,Joko Firmansyah,Informatika,mahasiswa719@contoh.test
+UJI000720,Gita Setiawan,Informatika,mahasiswa720@contoh.test
+UJI000721,Budi Setiawan,Informatika,mahasiswa721@contoh.test
+UJI000722,Nanda Pratama,Manajemen,mahasiswa722@contoh.test
+UJI000723,Eka Setiawan,Informatika,mahasiswa723@contoh.test
+UJI000724,Andi Ramadhan,Sistem Informasi,mahasiswa724@contoh.test
+UJI000725,Citra Firmansyah,Manajemen,mahasiswa725@contoh.test
+UJI000726,Citra Kusuma,Informatika,mahasiswa726@contoh.test
+UJI000727,Dewi Setiawan,Informatika,mahasiswa727@contoh.test
+UJI000728,Indra Permata,Manajemen,mahasiswa728@contoh.test
+UJI000729,Joko Kusuma,Akuntansi,mahasiswa729@contoh.test
+UJI000730,Hana Anggraini,Sistem Informasi,mahasiswa730@contoh.test
+UJI000731,Hana Anggraini,Sistem Informasi,mahasiswa731@contoh.test
+UJI000732,Budi Pratama,Informatika,mahasiswa732@contoh.test
+UJI000733,Hana Wijaya,Sistem Informasi,mahasiswa733@contoh.test
+UJI000734,Maya Kusuma,Manajemen,mahasiswa734@contoh.test
+UJI000735,Gita Lestari,Manajemen,mahasiswa735@contoh.test
+UJI000736,Gita Anggraini,Akuntansi,mahasiswa736@contoh.test
+UJI000737,Hana Firmansyah,Sistem Informasi,mahasiswa737@contoh.test
+UJI000738,Budi Lestari,Informatika,mahasiswa738@contoh.test
+UJI000739,Fajar Ramadhan,Informatika,mahasiswa739@contoh.test
+UJI000740,Dewi Anggraini,Akuntansi,mahasiswa740@contoh.test
+UJI000741,Nanda Saputra,Sistem Informasi,mahasiswa741@contoh.test
+UJI000742,Nanda Wijaya,Informatika,mahasiswa742@contoh.test
+UJI000743,Putri Anggraini,Manajemen,mahasiswa743@contoh.test
+UJI000744,Putri Wijaya,Manajemen,mahasiswa744@contoh.test
+UJI000745,Putri Setiawan,Manajemen,mahasiswa745@contoh.test
+UJI000746,Putri Ramadhan,Informatika,mahasiswa746@contoh.test
+UJI000747,Maya Firmansyah,Akuntansi,mahasiswa747@contoh.test
+UJI000748,Eka Firmansyah,Sistem Informasi,mahasiswa748@contoh.test
+UJI000749,Lina Saputra,Akuntansi,mahasiswa749@contoh.test
+UJI000750,Gita Pratama,Informatika,mahasiswa750@contoh.test
+UJI000751,Hana Saputra,Sistem Informasi,mahasiswa751@contoh.test
+UJI000752,Putri Kusuma,Akuntansi,mahasiswa752@contoh.test
+UJI000753,Putri Saputra,Sistem Informasi,mahasiswa753@contoh.test
+UJI000754,Karin Permata,Informatika,mahasiswa754@contoh.test
+UJI000755,Eka Permata,Informatika,mahasiswa755@contoh.test
+UJI000756,Maya Lestari,Sistem Informasi,mahasiswa756@contoh.test
+UJI000757,Lina Saputra,Sistem Informasi,mahasiswa757@contoh.test
+UJI000758,Hana Saputra,Akuntansi,mahasiswa758@contoh.test
+UJI000759,Eka Setiawan,Sistem Informasi,mahasiswa759@contoh.test
+UJI000760,Indra Ramadhan,Manajemen,mahasiswa760@contoh.test
+UJI000761,Andi Anggraini,Akuntansi,mahasiswa761@contoh.test
+UJI000762,Budi Firmansyah,Manajemen,mahasiswa762@contoh.test
+UJI000763,Joko Kusuma,Sistem Informasi,mahasiswa763@contoh.test
+UJI000764,Maya Anggraini,Sistem Informasi,mahasiswa764@contoh.test
+UJI000765,Hana Lestari,Akuntansi,mahasiswa765@contoh.test
+UJI000766,Joko Kusuma,Sistem Informasi,mahasiswa766@contoh.test
+UJI000767,Hana Setiawan,Manajemen,mahasiswa767@contoh.test
+UJI000768,Putri Setiawan,Akuntansi,mahasiswa768@contoh.test
+UJI000769,Hana Firmansyah,Informatika,mahasiswa769@contoh.test
+UJI000770,Putri Permata,Akuntansi,mahasiswa770@contoh.test
+UJI000771,Dewi Setiawan,Sistem Informasi,mahasiswa771@contoh.test
+UJI000772,Fajar Wijaya,Informatika,mahasiswa772@contoh.test
+UJI000773,Citra Firmansyah,Informatika,mahasiswa773@contoh.test
+UJI000774,Nanda Anggraini,Akuntansi,mahasiswa774@contoh.test
+UJI000775,Maya Pratama,Akuntansi,mahasiswa775@contoh.test
+UJI000776,Lina Wijaya,Informatika,mahasiswa776@contoh.test
+UJI000777,Lina Wijaya,Sistem Informasi,mahasiswa777@contoh.test
+UJI000778,Dewi Pratama,Informatika,mahasiswa778@contoh.test
+UJI000779,Dewi Anggraini,Sistem Informasi,mahasiswa779@contoh.test
+UJI000780,Lina Kusuma,Informatika,mahasiswa780@contoh.test
+UJI000781,Indra Anggraini,Informatika,mahasiswa781@contoh.test
+UJI000782,Hana Permata,Akuntansi,mahasiswa782@contoh.test
+UJI000783,Nanda Anggraini,Informatika,mahasiswa783@contoh.test
+UJI000784,Citra Saputra,Manajemen,mahasiswa784@contoh.test
+UJI000785,Joko Pratama,Sistem Informasi,mahasiswa785@contoh.test
+UJI000786,Nanda Kusuma,Manajemen,mahasiswa786@contoh.test
+UJI000787,Dewi Ramadhan,Manajemen,mahasiswa787@contoh.test
+UJI000788,Andi Anggraini,Manajemen,mahasiswa788@contoh.test
+UJI000789,Karin Setiawan,Akuntansi,mahasiswa789@contoh.test
+UJI000790,Lina Anggraini,Sistem Informasi,mahasiswa790@contoh.test
+UJI000791,Joko Kusuma,Akuntansi,mahasiswa791@contoh.test
+UJI000792,Nanda Permata,Manajemen,mahasiswa792@contoh.test
+UJI000793,Lina Wijaya,Informatika,mahasiswa793@contoh.test
+UJI000794,Indra Ramadhan,Akuntansi,mahasiswa794@contoh.test
+UJI000795,Karin Kusuma,Informatika,mahasiswa795@contoh.test
+UJI000796,Maya Anggraini,Manajemen,mahasiswa796@contoh.test
+UJI000797,Nanda Lestari,Akuntansi,mahasiswa797@contoh.test
+UJI000798,Karin Setiawan,Sistem Informasi,mahasiswa798@contoh.test
+UJI000799,Budi Pratama,Sistem Informasi,mahasiswa799@contoh.test
+UJI000800,Eka Lestari,Sistem Informasi,mahasiswa800@contoh.test
+UJI000801,Dewi Setiawan,Manajemen,mahasiswa801@contoh.test
+UJI000802,Maya Ramadhan,Sistem Informasi,mahasiswa802@contoh.test
+UJI000803,Andi Ramadhan,Sistem Informasi,mahasiswa803@contoh.test
+UJI000804,Fajar Firmansyah,Manajemen,mahasiswa804@contoh.test
+UJI000805,Karin Setiawan,Manajemen,mahasiswa805@contoh.test
+UJI000806,Putri Pratama,Informatika,mahasiswa806@contoh.test
+UJI000807,Fajar Ramadhan,Informatika,mahasiswa807@contoh.test
+UJI000808,Andi Anggraini,Sistem Informasi,mahasiswa808@contoh.test
+UJI000809,Lina Pratama,Informatika,mahasiswa809@contoh.test
+UJI000810,Eka Kusuma,Sistem Informasi,mahasiswa810@contoh.test
+UJI000811,Indra Firmansyah,Sistem Informasi,mahasiswa811@contoh.test
+UJI000812,Indra Wijaya,Manajemen,mahasiswa812@contoh.test
+UJI000813,Karin Permata,Akuntansi,mahasiswa813@contoh.test
+UJI000814,Maya Anggraini,Akuntansi,mahasiswa814@contoh.test
+UJI000815,Budi Lestari,Sistem Informasi,mahasiswa815@contoh.test
+UJI000816,Nanda Wijaya,Akuntansi,mahasiswa816@contoh.test
+UJI000817,Hana Anggraini,Manajemen,mahasiswa817@contoh.test
+UJI000818,Nanda Kusuma,Sistem Informasi,mahasiswa818@contoh.test
+UJI000819,Budi Permata,Manajemen,mahasiswa819@contoh.test
+UJI000820,Dewi Wijaya,Akuntansi,mahasiswa820@contoh.test
+UJI000821,Fajar Firmansyah,Informatika,mahasiswa821@contoh.test
+UJI000822,Citra Lestari,Sistem Informasi,mahasiswa822@contoh.test
+UJI000823,Hana Saputra,Akuntansi,mahasiswa823@contoh.test
+UJI000824,Hana Lestari,Akuntansi,mahasiswa824@contoh.test
+UJI000825,Joko Wijaya,Informatika,mahasiswa825@contoh.test
+UJI000826,Putri Anggraini,Sistem Informasi,mahasiswa826@contoh.test
+UJI000827,Hana Pratama,Manajemen,mahasiswa827@contoh.test
+UJI000828,Dewi Kusuma,Manajemen,mahasiswa828@contoh.test
+UJI000829,Hana Kusuma,Manajemen,mahasiswa829@contoh.test
+UJI000830,Gita Anggraini,Sistem Informasi,mahasiswa830@contoh.test
+UJI000831,Joko Setiawan,Sistem Informasi,mahasiswa831@contoh.test
+UJI000832,Dewi Setiawan,Informatika,mahasiswa832@contoh.test
+UJI000833,Eka Kusuma,Akuntansi,mahasiswa833@contoh.test
+UJI000834,Gita Pratama,Informatika,mahasiswa834@contoh.test
+UJI000835,Indra Lestari,Informatika,mahasiswa835@contoh.test
+UJI000836,Citra Pratama,Manajemen,mahasiswa836@contoh.test
+UJI000837,Gita Pratama,Sistem Informasi,mahasiswa837@contoh.test
+UJI000838,Joko Setiawan,Akuntansi,mahasiswa838@contoh.test
+UJI000839,Nanda Kusuma,Sistem Informasi,mahasiswa839@contoh.test
+UJI000840,Dewi Ramadhan,Sistem Informasi,mahasiswa840@contoh.test
+UJI000841,Hana Kusuma,Manajemen,mahasiswa841@contoh.test
+UJI000842,Indra Kusuma,Informatika,mahasiswa842@contoh.test
+UJI000843,Budi Wijaya,Akuntansi,mahasiswa843@contoh.test
+UJI000844,Lina Lestari,Sistem Informasi,mahasiswa844@contoh.test
+UJI000845,Karin Firmansyah,Akuntansi,mahasiswa845@contoh.test
+UJI000846,Eka Saputra,Akuntansi,mahasiswa846@contoh.test
+UJI000847,Lina Saputra,Informatika,mahasiswa847@contoh.test
+UJI000848,Karin Pratama,Manajemen,mahasiswa848@contoh.test
+UJI000849,Lina Anggraini,Informatika,mahasiswa849@contoh.test
+UJI000850,Fajar Kusuma,Akuntansi,mahasiswa850@contoh.test
+UJI000851,Karin Saputra,Manajemen,mahasiswa851@contoh.test
+UJI000852,Fajar Permata,Manajemen,mahasiswa852@contoh.test
+UJI000853,Karin Kusuma,Sistem Informasi,mahasiswa853@contoh.test
+UJI000854,Gita Ramadhan,Akuntansi,mahasiswa854@contoh.test
+UJI000855,Nanda Firmansyah,Manajemen,mahasiswa855@contoh.test
+UJI000856,Andi Anggraini,Manajemen,mahasiswa856@contoh.test
+UJI000857,Nanda Permata,Informatika,mahasiswa857@contoh.test
+UJI000858,Budi Saputra,Akuntansi,mahasiswa858@contoh.test
+UJI000859,Eka Wijaya,Akuntansi,mahasiswa859@contoh.test
+UJI000860,Fajar Setiawan,Sistem Informasi,mahasiswa860@contoh.test
+UJI000861,Andi Wijaya,Informatika,mahasiswa861@contoh.test
+UJI000862,Budi Permata,Sistem Informasi,mahasiswa862@contoh.test
+UJI000863,Gita Lestari,Informatika,mahasiswa863@contoh.test
+UJI000864,Nanda Firmansyah,Sistem Informasi,mahasiswa864@contoh.test
+UJI000865,Hana Ramadhan,Sistem Informasi,mahasiswa865@contoh.test
+UJI000866,Maya Setiawan,Akuntansi,mahasiswa866@contoh.test
+UJI000867,Budi Anggraini,Akuntansi,mahasiswa867@contoh.test
+UJI000868,Hana Pratama,Manajemen,mahasiswa868@contoh.test
+UJI000869,Eka Wijaya,Manajemen,mahasiswa869@contoh.test
+UJI000870,Fajar Lestari,Informatika,mahasiswa870@contoh.test
+UJI000871,Indra Saputra,Manajemen,mahasiswa871@contoh.test
+UJI000872,Putri Saputra,Akuntansi,mahasiswa872@contoh.test
+UJI000873,Nanda Firmansyah,Informatika,mahasiswa873@contoh.test
+UJI000874,Putri Kusuma,Manajemen,mahasiswa874@contoh.test
+UJI000875,Maya Ramadhan,Akuntansi,mahasiswa875@contoh.test
+UJI000876,Citra Pratama,Manajemen,mahasiswa876@contoh.test
+UJI000877,Fajar Wijaya,Akuntansi,mahasiswa877@contoh.test
+UJI000878,Lina Firmansyah,Informatika,mahasiswa878@contoh.test
+UJI000879,Gita Wijaya,Akuntansi,mahasiswa879@contoh.test
+UJI000880,Eka Saputra,Informatika,mahasiswa880@contoh.test
+UJI000881,Andi Permata,Manajemen,mahasiswa881@contoh.test
+UJI000882,Maya Ramadhan,Manajemen,mahasiswa882@contoh.test
+UJI000883,Andi Pratama,Akuntansi,mahasiswa883@contoh.test
+UJI000884,Putri Setiawan,Sistem Informasi,mahasiswa884@contoh.test
+UJI000885,Gita Setiawan,Sistem Informasi,mahasiswa885@contoh.test
+UJI000886,Eka Setiawan,Informatika,mahasiswa886@contoh.test
+UJI000887,Putri Anggraini,Sistem Informasi,mahasiswa887@contoh.test
+UJI000888,Fajar Permata,Informatika,mahasiswa888@contoh.test
+UJI000889,Fajar Pratama,Akuntansi,mahasiswa889@contoh.test
+UJI000890,Putri Firmansyah,Manajemen,mahasiswa890@contoh.test
+UJI000891,Fajar Setiawan,Manajemen,mahasiswa891@contoh.test
+UJI000892,Budi Setiawan,Informatika,mahasiswa892@contoh.test
+UJI000893,Citra Setiawan,Manajemen,mahasiswa893@contoh.test
+UJI000894,Budi Kusuma,Manajemen,mahasiswa894@contoh.test
+UJI000895,Putri Wijaya,Akuntansi,mahasiswa895@contoh.test
+UJI000896,Joko Ramadhan,Sistem Informasi,mahasiswa896@contoh.test
+UJI000897,Gita Kusuma,Manajemen,mahasiswa897@contoh.test
+UJI000898,Dewi Ramadhan,Akuntansi,mahasiswa898@contoh.test
+UJI000899,Fajar Pratama,Manajemen,mahasiswa899@contoh.test
+UJI000900,Budi Firmansyah,Manajemen,mahasiswa900@contoh.test
+UJI000901,Citra Lestari,Sistem Informasi,mahasiswa901@contoh.test
+UJI000902,Eka Ramadhan,Sistem Informasi,mahasiswa902@contoh.test
+UJI000903,Dewi Firmansyah,Sistem Informasi,mahasiswa903@contoh.test
+UJI000904,Putri Saputra,Manajemen,mahasiswa904@contoh.test
+UJI000905,Citra Pratama,Informatika,mahasiswa905@contoh.test
+UJI000906,Eka Wijaya,Sistem Informasi,mahasiswa906@contoh.test
+UJI000907,Andi Permata,Akuntansi,mahasiswa907@contoh.test
+UJI000908,Karin Ramadhan,Informatika,mahasiswa908@contoh.test
+UJI000909,Putri Wijaya,Informatika,mahasiswa909@contoh.test
+UJI000910,Citra Anggraini,Sistem Informasi,mahasiswa910@contoh.test
+UJI000911,Eka Firmansyah,Manajemen,mahasiswa911@contoh.test
+UJI000912,Andi Anggraini,Manajemen,mahasiswa912@contoh.test
+UJI000913,Gita Pratama,Informatika,mahasiswa913@contoh.test
+UJI000914,Karin Wijaya,Informatika,mahasiswa914@contoh.test
+UJI000915,Fajar Ramadhan,Sistem Informasi,mahasiswa915@contoh.test
+UJI000916,Hana Kusuma,Sistem Informasi,mahasiswa916@contoh.test
+UJI000917,Andi Lestari,Informatika,mahasiswa917@contoh.test
+UJI000918,Karin Ramadhan,Akuntansi,mahasiswa918@contoh.test
+UJI000919,Budi Firmansyah,Informatika,mahasiswa919@contoh.test
+UJI000920,Joko Kusuma,Akuntansi,mahasiswa920@contoh.test
+UJI000921,Karin Lestari,Sistem Informasi,mahasiswa921@contoh.test
+UJI000922,Lina Permata,Manajemen,mahasiswa922@contoh.test
+UJI000923,Lina Lestari,Manajemen,mahasiswa923@contoh.test
+UJI000924,Andi Permata,Sistem Informasi,mahasiswa924@contoh.test
+UJI000925,Joko Setiawan,Akuntansi,mahasiswa925@contoh.test
+UJI000926,Andi Lestari,Informatika,mahasiswa926@contoh.test
+UJI000927,Indra Permata,Akuntansi,mahasiswa927@contoh.test
+UJI000928,Hana Ramadhan,Informatika,mahasiswa928@contoh.test
+UJI000929,Nanda Wijaya,Informatika,mahasiswa929@contoh.test
+UJI000930,Hana Setiawan,Informatika,mahasiswa930@contoh.test
+UJI000931,Hana Pratama,Akuntansi,mahasiswa931@contoh.test
+UJI000932,Gita Lestari,Manajemen,mahasiswa932@contoh.test
+UJI000933,Eka Kusuma,Informatika,mahasiswa933@contoh.test
+UJI000934,Indra Kusuma,Informatika,mahasiswa934@contoh.test
+UJI000935,Budi Ramadhan,Akuntansi,mahasiswa935@contoh.test
+UJI000936,Lina Kusuma,Manajemen,mahasiswa936@contoh.test
+UJI000937,Budi Setiawan,Manajemen,mahasiswa937@contoh.test
+UJI000938,Gita Firmansyah,Manajemen,mahasiswa938@contoh.test
+UJI000939,Fajar Setiawan,Manajemen,mahasiswa939@contoh.test
+UJI000940,Lina Kusuma,Akuntansi,mahasiswa940@contoh.test
+UJI000941,Karin Saputra,Informatika,mahasiswa941@contoh.test
+UJI000942,Nanda Pratama,Sistem Informasi,mahasiswa942@contoh.test
+UJI000943,Fajar Wijaya,Manajemen,mahasiswa943@contoh.test
+UJI000944,Eka Permata,Akuntansi,mahasiswa944@contoh.test
+UJI000945,Gita Firmansyah,Informatika,mahasiswa945@contoh.test
+UJI000946,Fajar Lestari,Informatika,mahasiswa946@contoh.test
+UJI000947,Nanda Setiawan,Manajemen,mahasiswa947@contoh.test
+UJI000948,Karin Ramadhan,Sistem Informasi,mahasiswa948@contoh.test
+UJI000949,Lina Firmansyah,Manajemen,mahasiswa949@contoh.test
+UJI000950,Joko Wijaya,Informatika,mahasiswa950@contoh.test
+UJI000951,Fajar Firmansyah,Akuntansi,mahasiswa951@contoh.test
+UJI000952,Joko Firmansyah,Informatika,mahasiswa952@contoh.test
+UJI000953,Lina Saputra,Akuntansi,mahasiswa953@contoh.test
+UJI000954,Hana Saputra,Akuntansi,mahasiswa954@contoh.test
+UJI000955,Karin Firmansyah,Manajemen,mahasiswa955@contoh.test
+UJI000956,Hana Pratama,Akuntansi,mahasiswa956@contoh.test
+UJI000957,Putri Firmansyah,Akuntansi,mahasiswa957@contoh.test
+UJI000958,Lina Setiawan,Sistem Informasi,mahasiswa958@contoh.test
+UJI000959,Hana Wijaya,Sistem Informasi,mahasiswa959@contoh.test
+UJI000960,Eka Ramadhan,Manajemen,mahasiswa960@contoh.test
+UJI000961,Fajar Lestari,Informatika,mahasiswa961@contoh.test
+UJI000962,Maya Ramadhan,Manajemen,mahasiswa962@contoh.test
+UJI000963,Fajar Setiawan,Informatika,mahasiswa963@contoh.test
+UJI000964,Karin Saputra,Sistem Informasi,mahasiswa964@contoh.test
+UJI000965,Putri Anggraini,Manajemen,mahasiswa965@contoh.test
+UJI000966,Karin Anggraini,Manajemen,mahasiswa966@contoh.test
+UJI000967,Joko Saputra,Akuntansi,mahasiswa967@contoh.test
+UJI000968,Fajar Pratama,Sistem Informasi,mahasiswa968@contoh.test
+UJI000969,Nanda Firmansyah,Sistem Informasi,mahasiswa969@contoh.test
+UJI000970,Maya Kusuma,Akuntansi,mahasiswa970@contoh.test
+UJI000971,Joko Kusuma,Akuntansi,mahasiswa971@contoh.test
+UJI000972,Andi Permata,Informatika,mahasiswa972@contoh.test
+UJI000973,Putri Wijaya,Sistem Informasi,mahasiswa973@contoh.test
+UJI000974,Lina Ramadhan,Akuntansi,mahasiswa974@contoh.test
+UJI000975,Karin Permata,Akuntansi,mahasiswa975@contoh.test
+UJI000976,Andi Firmansyah,Informatika,mahasiswa976@contoh.test
+UJI000977,Nanda Setiawan,Manajemen,mahasiswa977@contoh.test
+UJI000978,Citra Firmansyah,Sistem Informasi,mahasiswa978@contoh.test
+UJI000979,Putri Setiawan,Sistem Informasi,mahasiswa979@contoh.test
+UJI000980,Dewi Firmansyah,Akuntansi,mahasiswa980@contoh.test
+UJI000981,Nanda Ramadhan,Sistem Informasi,mahasiswa981@contoh.test
+UJI000982,Hana Kusuma,Manajemen,mahasiswa982@contoh.test
+UJI000983,Gita Pratama,Akuntansi,mahasiswa983@contoh.test
+UJI000984,Eka Wijaya,Akuntansi,mahasiswa984@contoh.test
+UJI000985,Lina Wijaya,Akuntansi,mahasiswa985@contoh.test
+UJI000986,Gita Kusuma,Akuntansi,mahasiswa986@contoh.test
+UJI000987,Eka Kusuma,Manajemen,mahasiswa987@contoh.test
+UJI000988,Indra Lestari,Sistem Informasi,mahasiswa988@contoh.test
+UJI000989,Gita Setiawan,Sistem Informasi,mahasiswa989@contoh.test
+UJI000990,Eka Ramadhan,Manajemen,mahasiswa990@contoh.test
+UJI000991,Indra Anggraini,Sistem Informasi,mahasiswa991@contoh.test
+UJI000992,Gita Firmansyah,Manajemen,mahasiswa992@contoh.test
+UJI000993,Fajar Firmansyah,Sistem Informasi,mahasiswa993@contoh.test
+UJI000994,Hana Saputra,Manajemen,mahasiswa994@contoh.test
+UJI000995,Indra Anggraini,Sistem Informasi,mahasiswa995@contoh.test
+UJI000996,Budi Firmansyah,Manajemen,mahasiswa996@contoh.test
+UJI000997,Karin Saputra,Informatika,mahasiswa997@contoh.test
+UJI000998,Budi Wijaya,Sistem Informasi,mahasiswa998@contoh.test
+UJI000999,Gita Ramadhan,Akuntansi,mahasiswa999@contoh.test
+UJI001000,Putri Setiawan,Manajemen,mahasiswa1000@contoh.test

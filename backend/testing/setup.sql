@@ -1,0 +1,20 @@
+
+CREATE SCHEMA IF NOT EXISTS testing;
+
+CREATE TABLE IF NOT EXISTS testing.mahasiswa_uji_satuan (
+    id BIGSERIAL PRIMARY KEY,
+    nim VARCHAR(20) UNIQUE NOT NULL,
+    nama VARCHAR(100) NOT NULL,
+    program_studi VARCHAR(100) NOT NULL,
+    email VARCHAR(150) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS testing.mahasiswa_uji_batch (
+    id BIGSERIAL PRIMARY KEY,
+    nim VARCHAR(20) UNIQUE NOT NULL,
+    nama VARCHAR(100) NOT NULL,
+    program_studi VARCHAR(100) NOT NULL,
+    email VARCHAR(150) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
